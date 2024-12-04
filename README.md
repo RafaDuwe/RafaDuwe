@@ -4,15 +4,15 @@
 
 ## 🧑‍💻 **Sobre mim**
 - 📚 Estudando **Python** com foco em automação de redes.
-- 🌐 Explorando o fascinante mundo das **Redes de Computadores**.
+- 🌐 Estudando **Redes de Computadores**.
 - 📜 Atualmente cursando **Sistemas de Telecomunicações**.
 - 🎓 Preparando-me para a certificação **CCNA** (Cisco Certified Network Associate).
 
 ## 🚀 **O que você encontrará aqui**
 - Scripts e projetos de **automação de redes** usando Python e ferramentas como Netmiko e NAPALM.
-- Estudos e implementações de protocolos de rede, como **OSPF, EIGRP, VLANs,** e mais.
-- Recursos úteis para a jornada em redes e telecomunicações.
-- Dicas e materiais de estudo para o exame **CCNA**.
+- Estudos e implementações de protocolos de rede, como **OSPF, EIGRP, VLANs,** entre outros.
+- Recursos para redes e telecomunicações.
+- Materiais de estudo para o exame **CCNA**.
 
 ## 🛠️ **Habilidades em desenvolvimento**
 - **Linguagens:** Python, Bash.
